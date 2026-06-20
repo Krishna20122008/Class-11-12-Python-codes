@@ -1,3 +1,5 @@
+#This is a python code to find the average marks of a student in his/her exam and to find the percentage..
+
 maths=float(input("enter the value of maths:"))
 bio=float(input("enter the value of bio:"))
 physics=float(input("enter the value of physics:"))
