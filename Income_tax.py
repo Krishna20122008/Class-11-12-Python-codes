@@ -1,3 +1,4 @@
+#This is a python code to find the income tax of a person..
 a=(input("Are you a politician? y/n:"))
 
 if a=="y":
