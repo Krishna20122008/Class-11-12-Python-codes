@@ -1,3 +1,5 @@
+# Stacks operations in python..
+
 def stackpush(element,stack):
     stack.append(element)
 
