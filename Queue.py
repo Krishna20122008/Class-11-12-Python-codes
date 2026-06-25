@@ -1,3 +1,5 @@
+# Queue operations in python..
+
 def isempty(queue):
     if len(queue)==0:
         return True
