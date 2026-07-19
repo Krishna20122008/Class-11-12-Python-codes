@@ -1,0 +1,12 @@
+myobject=open("myfile.txt","a")
+a=(input("Enter the sentence that has to be appended in the text file: "))
+myobject.write(a)
+myobject.write(" \n")
+myobject.close()
+
+myobject=open("myfile.txt", "r")
+print(myobject.tell())
+(myobject.seek(15))
+print("We are going to the index 15.")
+print(myobject.read())
+myobject.close()
